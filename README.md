@@ -72,7 +72,7 @@
 #### Nhận định:
 - Thời gian phản hồi có dao động đáng kể giữa các kịch bản. Điều này cho thấy hiệu năng chưa hoàn toàn ổn định và có thể phụ thuộc vào loại tác vụ hoặc lượng tải tại thời điểm kiểm thử.
 
-### 2. Về Throughput (Thông lượng)
+### 2. Về thông lượng (Throughput)
 - Kịch bản 1: 30.53 yêu cầu/giây
 
 - Kịch bản 2: 24.91 yêu cầu/giây
