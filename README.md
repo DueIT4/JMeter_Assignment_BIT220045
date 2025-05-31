@@ -82,7 +82,7 @@
 #### Nhận định:
 - Throughput nhìn chung ổn định, cho thấy hệ thống có khả năng xử lý lượng yêu cầu tương đối đều, mặc dù có thể bị giới hạn bởi tài nguyên máy chủ hoặc độ phức tạp của request.
 
-### 3. Về Tỷ lệ lỗi (Error Rate)
+### 3. Về tỷ lệ lỗi (Error Rate)
 - Kịch bản 1: 0.00% – hoàn hảo
 
 - Kịch bản 2: 0.38% – chấp nhận được
